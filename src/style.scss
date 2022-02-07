@@ -2,3 +2,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Urbanist&display=swap");
 @import "variables";
 @import "utilities";
+
+.bar-container {
+  width: 100%;
+  background-color: #f1f1f1;
+  text-align: center;
+}
+.hour-bar {
+    width: 60%; 
+    height: 4px;
+    background-color: #4C94FC;
+}
